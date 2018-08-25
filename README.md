@@ -4,7 +4,7 @@ CIÊNCIA DA COMPUTAÇÃO
 3º PERÍODO
 METODOLOGIA E LINGUAGEM DE PROGRAMAÇÃO
 Aluno : Edigardo Guedes Pereira Neto
-Professor: Rodrigo de Cruz Fujioka
+Professor: Rodrigo da Cruz Fujioka
 
 
 Lista 1º estágio java
