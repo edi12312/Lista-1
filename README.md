@@ -1,10 +1,10 @@
 # Lista-1
-CENTRO UNIVERSITÁRIO UNIPÊ\n
-CIÊNCIA DA COMPUTAÇÃO\n
-3º PERÍODO\n
-METODOLOGIA E LINGUAGEM DE PROGRAMAÇÃO\n
-Aluno : Edigardo Guedes Pereira Neto\n
-Professor: Rodrigo de Cruz Fujioka\n
+CENTRO UNIVERSITÁRIO UNIPÊ
+CIÊNCIA DA COMPUTAÇÃO
+3º PERÍODO
+METODOLOGIA E LINGUAGEM DE PROGRAMAÇÃO
+Aluno : Edigardo Guedes Pereira Neto
+Professor: Rodrigo de Cruz Fujioka
 
 
 Lista 1º estágio java
