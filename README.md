@@ -7,6 +7,6 @@ Aluno : Edigardo Guedes Pereira Neto;
 Professor: Rodrigo da Cruz Fujioka;
 
 
-Lista 1º estágio java
+Lista 1º estágio java:
 A lista com os exercicios estão dentro da primeira pasta e da segunda, sendo que na segunda haverão todos os já feitos.
 
